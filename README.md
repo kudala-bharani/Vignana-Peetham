@@ -1,4 +1,3 @@
 # VignanaPeetham
-A sample website
 
-### Website for orphanage called Vignana Peetham
+### Website for an orphanage called Vignana Peetham
